@@ -1,0 +1,9 @@
+{
+  "username"   : "joesmith",
+  "password"   : "password123",
+  "outputDir"  : "/Users/joesmith/Downloads",
+  "overwrite"  : false,
+  "baseUrl"    : "https://example.com/",
+  "loginUrl"   : "https://example.com/login",
+  "paystubUrl" : "https://example.com/paystub"
+}
